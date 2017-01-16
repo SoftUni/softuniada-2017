@@ -1,0 +1,12 @@
+8
+oaoaoaaa | oooaoooa | aooaaaoa | aoaaoooo | oaaooaoo | aaoaoaoo | ooaaaaoo | ooaoaaoa
+oooaaaoa | oooaaoao | ooaoaaoo | ooaaoooa | aaaaooao | aaoaooao | aoaoaaoo | aaoaoaoo
+oaaaoaoa | aaaaoaoo | oaoaoaaa | aaoooooo | oooaaaaa | ooaooooa | aooooaoa | aooaaaaa
+aaoooooa | oaoaaaao | ooaooaaa | oaaaaaaa | oaoaoaoo | aaoaooaa | oooaoaao | aooaoaao
+aaoaoaoa | aoooooaa | oooaooaa | oooaaaaa | aaaoaaaa | aaoaooao | aoaoaooa | oaaaaoaa
+ooaooaoa | oaaoaaao | oaoaoooo | aoooaaaa | oooaoaao | aoooaaao | oaaoooao | ooooooaa
+aooaaaaa | aoaoooao | oaaooaoo | aoaaoaaa | oooaaoao | oaooooao | aoaooaao | aoaooaoo
+oaaoaaoo | oaaoaoao | ooaaaooa | oooaoooa | oaaaoaoo | aaoaaaaa | ooaaasoa | oaoaaaaa
+down
+up in 5 steps
+end in 4 steps

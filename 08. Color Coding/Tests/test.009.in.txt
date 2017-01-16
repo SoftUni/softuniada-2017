@@ -1,0 +1,11 @@
+5
+purple (brown) green red red (brown) (orange) (black) (purple) (green) (green) (blue) (blue) (brown) (orange) (orange) (brown) blue (purple) (blue) (green) brown (brown) (green) (blue) (purple) orange (black) (purple) (black) (blue) (purple) (yellow) (orange) (green) (purple) (red) (green) black (orange) (green) (green) blue (brown) blue (green) brown (brown) (orange) (green) (red) (black) red (brown) (orange) (brown) (yellow) (yellow) (blue) (brown) (purple) (green) (red) (orange)
+purple green red red blue brown orange black blue blue brown red yellow
+(yellow) (blue) (green) (brown) (orange) (black) (black) purple brown (blue) black orange (green) (purple) (green) (purple) (black) (blue) (blue) (orange) (black) yellow (red) (green) (orange)
+purple brown black orange yellow red
+yellow (black) (orange) (green) (purple) (brown) (green) (blue) (green) (red) blue (orange) (purple) (yellow) (green) (yellow) (green) (black) (yellow) (purple) (purple) (yellow) (purple) (green) (yellow)
+yellow blue green
+(brown) (brown) (green) yellow brown (yellow) (yellow) blue (red) (yellow) (green) (orange) (orange) (black) (red) (blue) blue (purple) (blue) (black) (yellow) blue (yellow) (red) (green) (black) purple (blue) (orange) (green) (blue) (red) (brown) (yellow) (orange) (yellow) (purple) brown green (black) (green) (red) (brown)
+yellow brown blue red blue blue purple red brown green red
+(yellow) (yellow) (green) (yellow) (yellow) (black) (purple) (green) (green) (red) yellow green (orange) (yellow) (black) (green) red orange yellow (orange) (green) (black) (green) (red) (orange) (purple) (brown) (brown) (blue) (red) (brown) (yellow) (blue) (brown) (black) orange (green) (black) blue (black) (black) (brown) (blue)
+yellow green red orange yellow red orange blue blue

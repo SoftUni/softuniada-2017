@@ -1,0 +1,8 @@
+4
+aaao | oaoa | aaao | oaaa
+oooa | aooo | aaoa | aaaa
+oaao | oaoo | aaao | oasa
+aoao | oooa | aaoa | ooao
+right
+down in 1 steps
+end in 1 steps

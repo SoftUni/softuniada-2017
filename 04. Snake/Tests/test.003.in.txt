@@ -1,0 +1,17 @@
+6
+saooao | ooaoao | aaooao | aaoooo | aoaaoo | oaoaao
+aoaoaa | aoaaoa | oaoaoo | aaoaoa | oooaao | aaaaoo
+oaaoao | aooaoo | ooaaao | ooaaoo | aaaoaa | oaoaoa
+oaaooo | aoaaao | aaaaoo | aooaaa | oooaaa | aoaooo
+oooooo | oaoaoo | aaaooo | oaooaa | oaoooo | ooaooo
+oooaoa | oaaoao | oaoaao | oaaooa | ooaaoa | oaoaaa
+backward
+right in 5 steps
+forward in 1 steps
+right in 5 steps
+backward in 1 steps
+right in 5 steps
+forward in 1 steps
+right in 5 steps
+backward in 1 steps
+end in 4 steps

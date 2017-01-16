@@ -1,0 +1,10 @@
+3
+aaa | saa | aaa
+aaa | aaa | aaa
+aaa | aaa | aaa
+right
+backward in 2 step
+left in 2 steps
+up in 1 step
+down in 1 step
+end in 2 step

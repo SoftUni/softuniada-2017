@@ -1,0 +1,5 @@
+2
+(purple) (red) (blue) (purple) (red) (purple) (blue) (green) red (purple) (blue) (green) (purple) red (blue) (green) red black
+red blue red green red black
+(brown) (orange) (yellow) (black) orange (brown) (yellow) (brown) orange (green) orange
+orange yellow orange green orange

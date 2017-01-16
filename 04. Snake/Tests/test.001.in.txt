@@ -1,0 +1,6 @@
+2
+oa | as
+oa | aa
+up
+backward in 1 steps
+end in 1 steps

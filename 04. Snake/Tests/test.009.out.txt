@@ -1,0 +1,2 @@
+Points collected: 1
+The snake dies.

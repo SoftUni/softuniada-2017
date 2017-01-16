@@ -1,0 +1,21 @@
+10
+red blue (blue) (purple) (purple) (purple) red (red) (green) (red) blue (green) (red) green (green) (red) (blue) (green) (green) (purple)
+blue
+(blue) (blue) (green) (red) (green) (green) (purple) (blue) (red) (blue) (green) (green) (red) (blue) (blue) (purple) (green) purple (blue) purple
+red
+red purple (blue) (purple) (green) (red) (red) (red) (green) (blue) (blue) (purple) (blue) purple (blue) (purple) (green) (green) (green) (green)
+purple
+(blue) red (green) blue (blue) purple purple (green) green green (red) red (green) (purple) blue (purple) (purple) (red) (purple) (red)
+purple
+red (green) green (purple) (green) green (purple) (green) blue (blue) (blue) (blue) (purple) (green) (purple) green (blue) (red) (purple) (red)
+green
+(red) purple (purple) (purple) (green) (green) (green) (red) (purple) purple (green) (green) (green) (green) (red) (red) (red) (green) (blue) (purple)
+green
+(blue) (purple) green (red) red (green) red (red) (green) blue (blue) (purple) red (purple) (green) (red) (blue) (purple) (green) (red)
+red
+(red) blue (red) purple purple (purple) (purple) (purple) (purple) blue (blue) (green) (red) (red) (purple) (purple) (blue) (green) (green) red
+blue
+(green) (red) (purple) (red) blue (green) (blue) (green) (purple) (green) (green) red (purple) (blue) (red) (blue) (red) (green) (green) (red)
+red
+blue (red) (green) blue (red) (green) (blue) (red) (purple) (green) blue red (green) red red (blue) (green) (blue) (red) (green)
+blue

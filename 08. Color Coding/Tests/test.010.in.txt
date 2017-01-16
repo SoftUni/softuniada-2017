@@ -1,0 +1,7 @@
+3
+red red blue (green) green
+red red green
+(blue) blue (blue) green (purple)
+blue
+(green) (green) (green) (red) (blue)
+blue red

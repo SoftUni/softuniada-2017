@@ -1,0 +1,55 @@
+3
+ooo | ooo | ooo
+ooo | osa | ooo
+ooo | ooo | ooo
+right
+left in 1 steps
+right in 1 steps
+forward in 1 steps
+backward in 1 steps
+left in 1 steps
+up in 1 steps
+down in 1 steps
+right in 1 steps
+left in 1 steps
+right in 1 steps
+forward in 1 steps
+backward in 1 steps
+left in 1 steps
+up in 1 steps
+down in 1 steps
+right in 1 steps
+forward in 1 steps
+backward in 1 steps
+left in 1 steps
+up in 1 steps
+down in 1 steps
+right in 1 steps
+left in 1 steps
+right in 1 steps
+forward in 1 steps
+backward in 1 steps
+left in 1 steps
+up in 1 steps
+down in 1 steps
+right in 1 steps
+left in 1 steps
+right in 1 steps
+forward in 1 steps
+backward in 1 steps
+left in 1 steps
+up in 1 steps
+down in 1 steps
+right in 1 steps
+forward in 1 steps
+backward in 1 steps
+left in 1 steps
+up in 1 steps
+down in 1 steps
+right in 1 steps
+forward in 1 steps
+backward in 1 steps
+left in 1 steps
+up in 1 steps
+down in 1 steps
+end in 1 steps

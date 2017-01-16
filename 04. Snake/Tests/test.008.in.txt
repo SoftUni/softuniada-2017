@@ -1,0 +1,12 @@
+7
+oooaaao | aaaaooo | oaaoaoo | oaoooaa | oooooao | aoooooo | oaoaaaa
+ooooaaa | ooooooa | ooaaoaa | aaooaaa | oooaooa | ooaaooo | aaaooao
+oooaaaa | aoooaao | ooaaooa | oaooaao | aaaaoaa | aoaaooa | aaoooao
+aaooaoa | ooaaoaa | aooaooo | aaoaaoo | oaaoaao | aoaaoaa | ooaaaoo
+ooaoooa | aaoaooo | oaaaaoa | ooaaaaa | aaaoaoa | oooaooo | oaoaooa
+oooaaao | aaoaaoo | ooooooa | aoaaoaa | aaooooo | aaaoooa | osoaaoo
+ooaoaoa | aaooooa | aoaaoaa | oaaooao | oaoaoao | aoaooao | aoaaoaa
+up
+up in 3 steps
+up in 2 steps
+end in 1 steps

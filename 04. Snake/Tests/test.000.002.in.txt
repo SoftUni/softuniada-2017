@@ -1,0 +1,6 @@
+2
+so | oo
+oa | ao
+right
+down in 1 step
+end in 2 step

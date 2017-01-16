@@ -1,0 +1,7 @@
+3
+ooo | osa | ooo
+ooa | ooa | ooo
+ooo | ooa | ooo
+right
+backward in 1 step
+end in 2 steps

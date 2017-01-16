@@ -1,0 +1,18 @@
+14
+aoooaoaooaooaa | oaaaaaoaaooaao | aaooooaaaooooa | aoaooaaaooooao | aooaoooooaaooa | oaoaoaoooaaoao | aooooooaaaoaao | aaoaooaaooaooo | ooaaaoaoaaaaao | aaaaooaaaoooaa | aaoaoaaaoooooa | aaaaaooaaooaao | aaaoaooaaaoaao | ooaaaoaoooaoao
+oaaoaoaoaaaaoa | aaaaoooooooaaa | ooaoaaaaoaoaoo | oooaaaooaaoaoa | oooooooaoooaoa | aaaooooooooaoa | oaoaoaaaoaaaoo | aaaoooaooaaoaa | aoooaoaaoooooa | aaaoaaaaoaaaoo | ooooaaoaaoaoao | ooaaoooooooooa | aoaoaooaaoaoaa | oaoaaaaoaaaoao
+ooaaaooooaoaoo | oaoaoaooaaaaoa | oooaaaaaoaaooa | oaaaooaooaaaoa | oooaaooooaooaa | oaooooooaaoooo | oaaaaaooaaoooo | oaaoaoaoaooaao | oaaaooaaaooaoo | ooaoooaoaaoaoa | aoooooooooaooa | aoaoaaooaoaoao | aaooaoaaooooao | ooaaaaooaooaoa
+aoaaooooaooaoo | oaaaaooooaaaoo | aoooaoaaaoaaaa | ooooaaaoooaooa | aaoooaoaoooooa | oaaoaoaooaooaa | aaaaaoaaaaaaaa | ooaaooooaaaaoa | aaaaoaaoaoooao | oooaaaooaaaooo | oaoooooaaoooaa | aaooaoooaaoooa | ooaooooaooooao | aooaaooaoaoooa
+oaaaoaaoooaaao | ooaaooaooaoooo | aooaoooaoooooo | ooaoaaooaooaoo | ooaaooaaaooooa | oaaaoooaaaooaa | oaoaoooaooaoao | ooooaaaoaaaaaa | ooaooaaoaaoaao | oaaaaoooaaooaa | oaoaoaoooaaaoo | aaoaaoaoaaaooa | oaaaaaoaaooooa | oooaaoaoaoaaoa
+ooaooooaoaoaaa | aaaaoooaaooooo | ooooaoaoaoaaao | aoaooaoaaaoaaa | aaaooaaaaaaaoa | ooaaoaaoooaaao | oooaaoooaoaooo | ooaaoaaaoaaoao | oaaoaaoaaoaooo | aaoooaooaaooaa | oaaaooaoaooaaa | ooaooooooaaooo | aaooaaooooaoao | aaooaoaoooooaa
+ooaaaooooaoooo | ooooaaaaaooaaa | aaooaaaaaooaoa | aooaooaaaoaaoa | aaoaooaoaaoaaa | aoaaaoaooaaaao | aooaaoaoaaoaoo | aaaoaoaaoaoaaa | oaaaoaooooooaa | ooaaaoaooaoaoo | aoaaaoaaaaoaoo | ooooaaoooaaoao | aooaooaaaoaooa | oaoooooaoaaaao
+oaaooaoooaoooo | ooaaoaoaoaoaaa | oaaooaaaoaaaoo | oaaooaaooooaoo | aoaaaaoaaoaaaa | aoaoaaooaoaaaa | aaaaaoooaaooao | oaaaoaaaaooooo | aaoaaoooooaooo | oaoooaoaaaaooa | aaooooooaooaoo | aaaaaoaaaoooaa | oooaooooaoaaao | ooaoaooaoaoooo
+oooooaaoaaaaaa | aoaaooaaoaaaao | oaaaoooaoaaooo | ooaaoaoaaaaaoa | aaaaaaoooaoaao | oooaoaooaaaooo | oaoaaaaaooaaao | ooooooaoaooaoa | aaaoaaaooaoaoa | oaooaooaaaoaaa | ooooooaoooaaoa | aaooaaoaoooaoa | oooaooaoooaoaa | aaoaaoaooooaoa
+ooaoaoooooaaoo | oooaoaaoaooooo | aaoaoaoaoooaao | oooaooaoaaaaaa | aaoaooaaaaaooa | oooooaooaoaaoo | aaooaaaoaaaaoo | oooooooaaoaooo | aoaoaoaaaaoaaa | ooaaoaaaoaoooo | oaaaoaaaooaoao | aaaaoooaaaaooo | ooaoaaaoaooooa | ooaoooaoaaoaao
+oaoaoooooaoaao | aaoooaaooaoooa | oooaaooaoaaoaa | oaaoaaaoaaaoaa | aaaoaoaoaooooo | aaooaaaoaaoaoo | oaooaooaaaoooo | oaoaoooooaooao | aoaoooaooaaooo | aoaaoaooooaaao | ooaooaaoaooaoo | oaoooooaoaoaoo | oaaooaaoaoaooa | oaaoaaoaaooaao
+oooooaooaaaaao | aaaaoaoooaoaoo | aoaaaoaaoooaoo | ooaooaaaaaaooa | oaoaoaooaaaooo | aoaooooaaoaaao | oooooooaaooaoa | oooaoaooaooooo | aooaooaoaoaoao | oaaaaoaaaaoaao | aaooaaaaaaooao | aoooaaaooooaao | aaoooaaaaaoooa | aooaoaooaooooo
+aooaoaooooaooa | ooaaooaooaaoao | ooaaoaaaaaaaao | aoaoooaooaaoao | oooaaaooooaaaa | aoaaooaaaoaaoo | aooooaooooaooa | aaoaooooaaaoao | aaaoaooaaaaooa | aaooooaoaoooaa | oooaoooooooooa | aaoaaaaoaaaooa | aaaooaaaoaoooo | oaaoasooooaoaa
+aoooaaaoaaaaao | oooaaaoaaaoaoa | aaoooaaoaaoooa | aoaaaaaoaaooao | aoaaaoaaoaoooo | oaoaoaaaoaaoaa | aaaooaaaoaooao | aoaaoaaaoaoaoa | oaooaoaaaoaaaa | aaooaaaoooooao | ooaoaaooaooaoo | ooaaaooaoaoooo | aoooaaaaoaaaoo | ooaaaaaaoooooa
+up
+down in 6 steps
+end in 10 steps

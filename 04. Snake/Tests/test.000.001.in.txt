@@ -1,0 +1,10 @@
+3
+ooo | oao | ooo
+osa | ooo | ooo
+ooo | oao | ooa
+forward
+down in 1 steps
+backward in 1 steps
+down in 2 steps
+right in 1 step
+end in 1 step
